@@ -4,7 +4,7 @@ date: "2020-02-14"
 # featuredImage: './traintrack.jpg'
 ---
 
-Today my labmate looks very happy today, his voice is dancing joyfully when he talks, I asked him why then we talked for around 30 minutes about our life attitude.
+Today my labmate looks very happy, even his voice is dancing joyfully when he talks, I asked him why then we talked for around 30 minutes about our life attitude.
 
 He told me that his birthday is around the corner, which he suddenly realized that. And after around eight years of struggling and fighting in the US, he felt lost, and he got none comparing with others and his expectation about the future, which is now. Nevertheless, he still thought that he wants to be happy, something he deserves. Then I asked him, but did you get the thing that you wanted when you decided to start your Ph.D. degree? Shouldn't you had already predicted your current situation years ago? Being a Ph.D. student is just like this; it is the same for everyone. Then he thought for a few seconds and said YES, he did get what he pursues, and for him, this Ph.D. degree is more than everything.
 
