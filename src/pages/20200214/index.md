@@ -1,0 +1,13 @@
+---
+title: Be a better one
+date: "2020-02-14"
+# featuredImage: './traintrack.jpg'
+---
+
+Today my labmate looks very happy today, his voice is dancing joyfully when he talks, I asked him why then we talked for around 30 minutes about our life attitude.
+
+He told me that his birthday is around the corner, which he suddenly realized that. And after around eight years of struggling and fighting in the US, he felt lost, and he got none comparing with others and his expectation about the future, which is now. Nevertheless, he still thought that he wants to be happy, something he deserves. Then I asked him, but did you get the thing that you wanted when you decided to start your Ph.D. degree? Shouldn't you had already predicted your current situation years ago? Being a Ph.D. student is just like this; it is the same for everyone. Then he thought for a few seconds and said YES, he did get what he pursues, and for him, this Ph.D. degree is more than everything.
+
+Our time is limited, and the chance that we could get everything done perfectly is rare. Most likely, we have to give up some chance to better grab the other. The point is, whichever decision you make, you have to be certain that you do it willingly. Enough is a very important property for us ordinary human beings. Enjoy what we have and make sure we are still better is the right thing to do instead of blaming what we sacrificed and lost.
+
+After that, we also shared our attitude on being a success and being brilliant. I do not think that we should compare ourselves with others since I believe that everyone is raised in different ways and from different backgrounds, it is impossible to compare one person with another one. We are born with different gifts, but that kind of gift need us, and only us, to explore and discover. Steven Hokin is an excellent and successful physical scientist, but it doesn't mean someone who is not good at physical is a failure; he might be LangLang, a famous pianist. It is also because different people have different advantages. We need so many departments in Universities. On the other hand, everybody is climbing a pyramid, no matter how hard you try, there will always be someone ahead of you, you can never feel satisfied. But if you look down, there will also be a lot of people below you. We are all on the journey of life. Someone moves faster, it is good, someone moves slower, it is also fine. Therefore, we should never compare with others. However, we do need to compare ourselves with the one who we were yesterday. We have to know that we are making progress day by day. Only in this way could we make sure that we are not wasting our precious time.
