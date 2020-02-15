@@ -10,4 +10,4 @@ featuredImage: './paper.jpg'
     </embed>
 </object>
 
-Research on the Security of Blockchain Data- A Survey_withMarginNotes
+*Research on the Security of Blockchain Data- A Survey_withMarginNotes*
