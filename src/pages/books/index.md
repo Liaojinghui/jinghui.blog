@@ -1,7 +1,7 @@
 ---
 title: Books that I read
 date: "2020-02-14"
-featuredImage: './traintrack.jpg'
+featuredImage: './book.jpg'
 ---
 
 
