@@ -4,8 +4,8 @@ date: "2020-02-14"
 featuredImage: './traintrack.jpg'
 ---
 
-[![Foo](https://images-na.ssl-images-amazon.com/images/I/41d0dI6hu3L._SX311_BO1,204,203,200_.jpg)](http://google.com.au/)
-1. [Unfu*k Yourself: Get Out of Your Head and into Your Life](https://www.amazon.com/Unfu-Yourself-Your-Head-into/dp/0062803832) Finished on Fab 14, 2020
+[![Foo](https://images-na.ssl-images-amazon.com/images/I/41d0dI6hu3L._SX311_BO1,204,203,200_.jpg =250x)](https://www.amazon.com/Unfu-Yourself-Your-Head-into/dp/0062803832)
+1. [Unfu*k Yourself: Get Out of Your Head and into Your Life]() Finished on Fab 14, 2020
 
 1. [Finish What You Start: The Art of Following Through, Taking Action, Executing, & Self-Discipline](https://www.amazon.com/Finish-What-You-Start-Self-Discipline-ebook/dp/B07BJ88DCW) Finished on Fab 13, 2020
 
