@@ -6,7 +6,7 @@ featuredImage: './book.jpg'
 
 **Currently Reading:** *The 5 AM Club: Own Your Morning. Elevate Your Life* by Robin Sharma
 
-### Progress: [==>------------] 18%
+### Progress: [==>------------] 20%
 
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41X7N95-6zL._SX321_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624)
