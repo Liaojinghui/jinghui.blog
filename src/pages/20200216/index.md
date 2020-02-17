@@ -1,7 +1,7 @@
 ---
 title: 02/16/2020 Weekly Review 
 date: "2020-02-16"
-featuredImage: './IMG_0131.PNG'
+# featuredImage: './IMG_0131.PNG'
 ---
 
 This is the first week after I decided to make some change to my life, time to take a review of the past 7days.
