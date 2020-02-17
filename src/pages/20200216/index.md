@@ -35,7 +35,7 @@ A few of them come from the books that I read, but due to my bad reading habit, 
 
 - Never judge others either, cause you know them no better than you know when your girlfriend is gonna be angry, even if you do, you shouldn't.
 
-- Never be afraid to try, I mean, legally. The best thing you can get is success, and the medium result is failed, the worst is you never try.
+- Never be afraid to try, I mean, legally. The best thing you can get is a success, and the medium result is a failure, the worst is you never try.
 
 - The *most importantly* **Everything around you is your environment, blaming will never change anything, if you are poor, blaming for being poor will not make you rich. The only way to change your condition is by accepting everything around you as your environment and stop blaming, but facing, challenging and changing.**
 
