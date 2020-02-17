@@ -4,7 +4,7 @@ date: "2020-02-17"
 featuredImage: './paper.jpg'
 ---
 
-**Paper/Document to Read>>** *[SEV-SNP-strengthening-vm-isolation-with-integrity-protection-and-more](https://www.amd.com/system/files/TechDocs/SEV-SNP-strengthening-vm-isolation-with-integrity-protection-and-more.pdf)* <a href="./SEV-SNP-strengthening-vm-isolation-with-integrity-protection-and-more.pdf" style="color: yellow;" >  #Download#</a>
+**Paper/Document to Read>>** *[SEV-SNP-strengthening-vm-isolation-with-integrity-protection-and-more](https://www.amd.com/system/files/TechDocs/SEV-SNP-strengthening-vm-isolation-with-integrity-protection-and-more.pdf)* <a href="./SEV-SNP-strengthening-vm-isolation-with-integrity-protection-and-more.pdf" style="color: green;" >  #Download#</a>
 
 02/17/2020 <> *[Canetti, Ran, et al. "Universally composable two-party and multi-party secure computation." Proceedings of the thiry-fourth annual ACM symposium on Theory of computing. 2002.](https://dl.acm.org/doi/abs/10.1145/509907.509980)*<a href="./20200217.pdf" style="color: red;" >  #MindMap#</a>
 
