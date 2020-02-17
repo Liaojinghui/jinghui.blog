@@ -8,7 +8,7 @@ featuredImage: './book.jpg'
 
 ### Progress: [===>-----------] 30%
 
-**Books to Read:** *"How to Write a Lot"*  *"Academic Writing"*
+**Books to Read:** *"How to Write a Lot"*  *"Academic Writing"* *"The Rust Programming Language(2019)"*
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41X7N95-6zL._SX321_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624)
 
