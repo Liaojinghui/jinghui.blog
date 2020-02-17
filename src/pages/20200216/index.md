@@ -31,7 +31,7 @@ A few of them come from the books that I read, but due to my bad reading habit, 
 
 - Never compare with others, you are the only one who stops you from being great, and you are the only one who cares about whether you are great.
 
-- You are not defined by the judgment from others, and flowers are beautiful not because of the person who likes or hates it, stay on your own pace and keep moving.
+- You are not defined by the judgment from others, as flowers are beautiful not because of the person who likes or hates it, stay on your own pace and keep moving.
 
 - Never judge others either, cause you know them no better than you know when your girlfriend is gonna be angry, even if you do, you shouldn't.
 
