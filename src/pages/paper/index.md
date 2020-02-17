@@ -1,6 +1,6 @@
 ---
 title: Papers that I read
-date: "2020-02-16"
+date: "2020-02-17"
 featuredImage: './paper.jpg'
 ---
 
