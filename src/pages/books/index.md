@@ -10,22 +10,19 @@ featuredImage: './book.jpg'
 
 **Books to Read:** 
 
-*"How to Write a Lot"*  
-
 *"Academic Writing"* 
 
-*"Write It Up: Practical Strategies for Writing and Publishing Journal 
-Articles"* 
+*"Write It Up: Practical Strategies for Writing and Publishing Journal Articles"* 
 
 *"The Rust Programming Language(2019)"*
-
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41gseANnhxL._SX310_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433)
-
-**How to Write a Lot** *Started on Fab 17, 2020* [========>--]84%
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41X7N95-6zL._SX321_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624)
 
 *Started on Fab 15, 2020* 
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41gseANnhxL._SX310_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433)
+
+**How to Write a Lot** *Finished on Fab 18, 2020*
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/613D-sCSsoL._SX342_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Bullet-Journal-Method-Present-Design/dp/0525533338/ref=as_li_ss_tl?ie=UTF8&qid=1529890642&sr=8-1&keywords=the+bullet+journal+method&linkCode=sl1&tag=thebulletjournal-20&linkId=19c1d645469f75139a3e1e825c9fed35)
 
