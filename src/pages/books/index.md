@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-02-17"
+date: "2020-02-18"
 featuredImage: './book.jpg'
 ---
 
@@ -18,6 +18,10 @@ featuredImage: './book.jpg'
 Articles"* 
 
 *"The Rust Programming Language(2019)"*
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41gseANnhxL._SX310_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433)
+
+**How to Write a Lot** *Started on Fab 17, 2020* [=====>----]65%
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41X7N95-6zL._SX321_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624)
 
