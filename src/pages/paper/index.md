@@ -1,12 +1,10 @@
 ---
 title: Papers that I read
-date: "2020-02-18"
+date: "2020-02-19"
 featuredImage: './paper.jpg'
 ---
 
 **Paper/Document to Read>>** 
-
-
 
 [HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
 
