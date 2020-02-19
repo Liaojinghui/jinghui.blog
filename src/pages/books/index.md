@@ -6,7 +6,7 @@ featuredImage: './book.jpg'
 
 **Currently Reading:** *The 80/20 Principle* by Richard Hoch
 
-
+### Progress: [=>-----------] 10%
 
 **Books to Read:** 
 
