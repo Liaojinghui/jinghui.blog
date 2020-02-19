@@ -6,6 +6,8 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[his Week in Blockchain Research Issue #46](https://zkcapital.substack.com/p/this-week-in-blockchain-research-15a?utm_campaign=post&utm_medium=email&utm_source=copy)** from *https://zkcapital.substack.com/*
+
 [HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
 
 [Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/abs/1909.07220) from NDSS2020
