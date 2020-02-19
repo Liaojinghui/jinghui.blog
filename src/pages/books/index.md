@@ -4,9 +4,9 @@ date: "2020-02-18"
 featuredImage: './book.jpg'
 ---
 
-**Currently Reading:** *The 5 AM Club: Own Your Morning. Elevate Your Life* by Robin Sharma
+**Currently Reading:** *The 80/20 Principle* by Richard Hoch
 
-### Progress: [====>----------] 40%
+
 
 **Books to Read:** 
 
@@ -16,9 +16,15 @@ featuredImage: './book.jpg'
 
 *"The Rust Programming Language(2019)"*
 
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51fomOL2S9L._SX322_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/80-20-Principle-Secret-Achieving/dp/0385491743)
+
+**The 80/20 Principle** *Started on Fab 19, 2020*
+
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41X7N95-6zL._SX321_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624)
 
-*Started on Fab 15, 2020* [I don't like the way that author presents his ideas, too boring] 
+**5 AM Club** *Started on Fab 15, 2020* ### Progress: [====>----------] 40%
+
+*I don't like the way that author presents his ideas, too boring and I am going to drop this one*
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41gseANnhxL._SX310_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433)
 
