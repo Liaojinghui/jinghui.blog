@@ -8,6 +8,8 @@ featuredImage: './paper.jpg'
 
 **[his Week in Blockchain Research Issue #46](https://zkcapital.substack.com/p/this-week-in-blockchain-research-15a?utm_campaign=post&utm_medium=email&utm_source=copy)** from *https://zkcapital.substack.com/*
 
+[Congestion Attacks in Payment Channel Networks](https://arxiv.org/pdf/2002.06564.pdf)
+
 [Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](Proof of Necessary Work:
 Succinct State Verification with Fairness Guarantees)
 
