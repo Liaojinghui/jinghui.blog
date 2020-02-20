@@ -10,8 +10,7 @@ featuredImage: './paper.jpg'
 
 [Congestion Attacks in Payment Channel Networks](https://arxiv.org/pdf/2002.06564.pdf)
 
-[Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](Proof of Necessary Work:
-Succinct State Verification with Fairness Guarantees)
+[Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](https://eprint.iacr.org/2020/190.pdf)
 
 [HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
 
