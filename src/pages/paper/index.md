@@ -10,7 +10,7 @@ featuredImage: './paper.jpg'
 
 [HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
 
-[Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/abs/1909.07220) from NDSS2020
+02/20/2020 <> *[Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/abs/1909.07220)* from NDSS2020 <a href="./20200220.pdf" style="color: red;" >  #MindMap# </a>
 
 02/19/2020 <> *[SEV-ES Guest-Hypervisor Communication Block Standardization](https://developer.amd.com/wp-content/resources/56421.pdf)*
 
