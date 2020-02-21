@@ -1,12 +1,12 @@
 ---
 title: Books that I read
-date: "2020-02-20"
+date: "2020-02-21"
 featuredImage: './book.jpg'
 ---
 
 **Currently Reading:** *The 80/20 Principle* by Richard Hoch
 
-### Progress: [=====>------] 50%
+### Progress: [=======>---] 68%
 
 **Books to Read:** 
 

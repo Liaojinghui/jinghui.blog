@@ -1,12 +1,10 @@
 ---
 title: Papers that I read
-date: "2020-02-20"
+date: "2020-02-21"
 featuredImage: './paper.jpg'
 ---
 
 **Paper/Document to Read>>** 
-
-**[Using TrustZone on Armv8-M](http://www.keil.com/appnotes/files/apnt_291.pdf)** from ARM
 
 **[Cosmos Whitepaper](https://cosmos.network/resources/whitepaper)**
 
@@ -17,6 +15,8 @@ featuredImage: './paper.jpg'
 [Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](https://eprint.iacr.org/2020/190.pdf)
 
 [HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
+
+02/21/2020 <> **[Using TrustZone on Armv8-M](http://www.keil.com/appnotes/files/apnt_291.pdf)** from ARM <a href="./20200221.pdf" style="color: red;" >  #MindMap# </a>
 
 02/20/2020 <> *[Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/abs/1909.07220)* from NDSS2020 <a href="./20200220.pdf" style="color: red;" >  #MindMap# </a>
 
