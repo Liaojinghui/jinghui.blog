@@ -8,6 +8,8 @@ featuredImage: './paper.jpg'
 
 **[Using TrustZone on Armv8-M](http://www.keil.com/appnotes/files/apnt_291.pdf)** from ARM
 
+**[Cosmos Whitepaper](https://cosmos.network/resources/whitepaper)**
+
 **[his Week in Blockchain Research Issue #46](https://zkcapital.substack.com/p/this-week-in-blockchain-research-15a?utm_campaign=post&utm_medium=email&utm_source=copy)** from *https://zkcapital.substack.com/*
 
 [Congestion Attacks in Payment Channel Networks](https://arxiv.org/pdf/2002.06564.pdf)
