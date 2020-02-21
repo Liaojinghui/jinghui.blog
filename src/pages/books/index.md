@@ -22,6 +22,12 @@ featuredImage: './book.jpg'
 
 **The 80/20 Principle** *Started on Fab 19, 2020*
 
+
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51Sn8PEXwcL.jpg" width="200" height="300">](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1582247383&sr=8-2)
+
+**Sapiens: A Brief History of Humankind** *Started on Fab 20, 2020* ### Progress: [====>----------] 60%
+
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41X7N95-6zL._SX321_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/AM-Club-Morning-Elevate-Life/dp/1443456624)
 
 **5 AM Club** *Started on Fab 15, 2020* ### Progress: [====>----------] 40%
