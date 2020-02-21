@@ -10,6 +10,10 @@ featuredImage: './paper.jpg'
 
 **[his Week in Blockchain Research Issue #46](https://zkcapital.substack.com/p/this-week-in-blockchain-research-15a?utm_campaign=post&utm_medium=email&utm_source=copy)** from *https://zkcapital.substack.com/*
 
+[Congestion Attacks in Payment Channel Networks](https://arxiv.org/pdf/2002.06564.pdf)
+
+[Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](https://eprint.iacr.org/2020/190.pdf)
+
 [HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
 
 02/20/2020 <> *[Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/abs/1909.07220)* from NDSS2020 <a href="./20200220.pdf" style="color: red;" >  #MindMap# </a>
