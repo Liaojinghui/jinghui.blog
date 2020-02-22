@@ -10,7 +10,7 @@ featuredImage: './book.jpg'
 
 **Books to Read:** 
 
-*[Mastering Monero:The future of private transactions](https://www.amazon.com/-/es/SerHack-ebook/dp/B07QW35KZN/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Mastering+Monero&qid=1582245906&sr=8-1)* <a href="./SerHack - Mastering Monero_ The future of private transactions (2018, Independent).epub" style="color: yellow;" >  #Download# </a>
+*[Mastering Monero:The future of private transactions](https://www.amazon.com/-/es/SerHack-ebook/dp/B07QW35KZN/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Mastering+Monero&qid=1582245906&sr=8-1)* <a href="./SerHack - Mastering Monero_ The future of private transactions (2018, Independent).epub" style="color: green;" >  #Download# </a>
 
 *"Academic Writing"* 
 
