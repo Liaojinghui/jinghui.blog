@@ -8,13 +8,15 @@ featuredImage: './paper.jpg'
 
 **[Cosmos Whitepaper](https://cosmos.network/resources/whitepaper)**
 
-**[his Week in Blockchain Research Issue #46](https://zkcapital.substack.com/p/this-week-in-blockchain-research-15a?utm_campaign=post&utm_medium=email&utm_source=copy)** from *https://zkcapital.substack.com/*
+**[Discharged Payment Channels: Quantifying the Lightning Network's Resilience to Topology-Based Attacks](https://ieeexplore.ieee.org/abstract/document/8802506)** from  2019 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
 
-[Congestion Attacks in Payment Channel Networks](https://arxiv.org/pdf/2002.06564.pdf)
+**[his Week in Blockchain Research Issue #46](https://zkcapital.substack.com/p/this-week-in-blockchain-research-15a?utm_campaign=post&utm_medium=email&utm_source=copy)** from *https://zkcapital.substack.com/*
 
 [Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](https://eprint.iacr.org/2020/190.pdf)
 
 [HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
+
+02/22/2020[Congestion Attacks in Payment Channel Networks](https://arxiv.org/pdf/2002.06564.pdf) <a href="./20200222.pdf" style="color: red;" >  #MindMap# </a>
 
 02/21/2020 <> **[Using TrustZone on Armv8-M](http://www.keil.com/appnotes/files/apnt_291.pdf)** from ARM <a href="./20200221.pdf" style="color: red;" >  #MindMap# </a>
 
