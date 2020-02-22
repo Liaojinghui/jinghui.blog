@@ -4,9 +4,9 @@ date: "2020-02-21"
 featuredImage: './book.jpg'
 ---
 
-**Currently Reading:** *The 80/20 Principle* by Richard Hoch
+**Currently Reading:** *The Rust Programming Language(2019)* by RUST
 
-### Progress: [=======>---] 68%
+### Progress: [>---------------] 0%
 
 **Books to Read:** 
 
@@ -20,7 +20,7 @@ featuredImage: './book.jpg'
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51fomOL2S9L._SX322_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/80-20-Principle-Secret-Achieving/dp/0385491743)
 
-**The 80/20 Principle** *Started on Fab 19, 2020*
+**The 80/20 Principle** *Finished on Fab 21, 2020*
 
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51Sn8PEXwcL.jpg" width="200" height="300">](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1582247383&sr=8-2)
