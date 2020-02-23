@@ -16,12 +16,13 @@ featuredImage: './book.jpg'
 
 *"Write It Up: Practical Strategies for Writing and Publishing Journal Articles"* 
 
-*"The Rust Programming Language(2019)"*
+[<img src="https://images-na.ssl-images-amazon.com/images/I/517kqWXEdCL._SX376_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Rust-Programming-Language-Covers-2018/dp/1718500440/ref=sr_1_1_sspa?crid=3FLS4O8KUJE3D&keywords=the+rust+programming+language&qid=1582486180&sprefix=The+rust+%2Caps%2C160&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOVVVUjA1STdVVkJZJmVuY3J5cHRlZElkPUEwNzg0MTcwM0hJREszRFY3SVMyRiZlbmNyeXB0ZWRBZElkPUEwODMzOTc5Qk05U09FWEZZUkI2JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+
+*"The Rust Programming Language(2019)"* Started from Fab 21 2020
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51fomOL2S9L._SX322_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/80-20-Principle-Secret-Achieving/dp/0385491743)
 
 **The 80/20 Principle** *Finished on Fab 21, 2020*
-
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51Sn8PEXwcL.jpg" width="200" height="300">](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari-ebook/dp/B00ICN066A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1582247383&sr=8-2)
 
