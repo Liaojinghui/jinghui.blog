@@ -1,16 +1,20 @@
 ---
 title: Papers that I read
-date: "2020-02-22"
+date: "2020-02-23"
 featuredImage: './paper.jpg'
 ---
 
 **Paper/Document to Read>>** 
 
+**[Secure Encrypted Virtualization API Version 0.22](https://developer.amd.com/wp-content/resources/55766.PDF)** from AMD SEV
+
+**[AMD64 Architecture Programmer’s Manual Volume 2: System Programming](https://www.amd.com/system/files/TechDocs/24593.pdf)** from AMD
+
 **[Cosmos Whitepaper](https://cosmos.network/resources/whitepaper)**
 
 **[Discharged Payment Channels: Quantifying the Lightning Network's Resilience to Topology-Based Attacks](https://ieeexplore.ieee.org/abstract/document/8802506)** from  2019 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
 
-**[his Week in Blockchain Research Issue #46](https://zkcapital.substack.com/p/this-week-in-blockchain-research-15a?utm_campaign=post&utm_medium=email&utm_source=copy)** from *https://zkcapital.substack.com/*
+**[this Week in Blockchain Research Issue #46](https://zkcapital.substack.com/p/this-week-in-blockchain-research-15a?utm_campaign=post&utm_medium=email&utm_source=copy)** from *https://zkcapital.substack.com/*
 
 [Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](https://eprint.iacr.org/2020/190.pdf)
 
