@@ -20,6 +20,10 @@ featuredImage: './book.jpg'
 
 *"The Rust Programming Language(2019)"* Started from Fab 21 2020
 
+[<img src="https://m.media-amazon.com/images/I/41UpV7crlHL.jpg" width="200" height="300">](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/B00M284NY2/ref=sr_1_2?keywords=Zero+to+One&qid=1582492441&sr=8-2)
+
+**Zero to One** *Finished on Fab 23, 2020*
+
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51fomOL2S9L._SX322_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/80-20-Principle-Secret-Achieving/dp/0385491743)
 
 **The 80/20 Principle** *Finished on Fab 21, 2020*
