@@ -53,7 +53,7 @@ Bellow is my daily routine and some fixed tasks:
 
 ##### Event List
 
-#Routine 
+<!-- #Routine  -->
 
 Each day, I will have a general task list that records the tasks that are supposed to be finished, followed by the detailed routine of the day, jobs in the task list will be assigned into the time block of the routine, and will be strictly followed through the day. The event module will record the things that happen during the day in brief words.
 
@@ -68,3 +68,6 @@ In the past week, I traced around 14 hours of behavior each day, it does not mea
 And the Forest shows that I stayed 13.3 hours focus on the tasks that I was doing in the past seven days on average, which i think is not bad. However, the hidden part of this is that I didn't follow my daily plan that strict except for the routine in the morning and night, I planned to finish reading the Sprints paper and also planned to complete the SEV communication task, all failed, though I studied something else instead of having fun, it is still not right. I need to improve myself. 
 
 <img src="./IMG_0148.PNG" width="160" height="300">]
+
+Lastly, I also want to say something to myself of the coming week.
+Hello, buddy, please think about it carefully what is the first priority and do it first no matter what, otherwise you will find yourself be overwhelmed by a lot of new papers new books and things alike. Please follow your daily routine.
