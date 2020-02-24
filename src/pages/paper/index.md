@@ -6,7 +6,7 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
-**[Secure Encrypted Virtualization API Version 0.22](https://developer.amd.com/wp-content/resources/55766.PDF)** from AMD SEV
+**[](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/07/Hyper-Cube-NDSS20.pdf)**
 
 **[AMD64 Architecture Programmer’s Manual Volume 2: System Programming](https://www.amd.com/system/files/TechDocs/24593.pdf)** from AMD
 
@@ -20,7 +20,11 @@ featuredImage: './paper.jpg'
 
 [HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
 
+---
+
 02/23/2020 <> **[WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/)** Artical by Lin Clark, Till Schneidereit, and Luke Wagner
+
+02/23/2020 <> **[Secure Encrypted Virtualization API Version 0.22](https://developer.amd.com/wp-content/resources/55766.PDF)** from AMD SEV
 
 02/22/2020 <> **[Congestion Attacks in Payment Channel Networks](https://arxiv.org/pdf/2002.06564.pdf)** <a href="./20200222.pdf" style="color: red;" >  #MindMap# </a>
 

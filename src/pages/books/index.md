@@ -8,6 +8,8 @@ featuredImage: './book.jpg'
 
 ### Progress: [===>------------] 30%
 
+---
+
 **Books to Read:** 
 
 *[Mastering Monero:The future of private transactions](https://www.amazon.com/-/es/SerHack-ebook/dp/B07QW35KZN/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Mastering+Monero&qid=1582245906&sr=8-1)* <a href="./SerHack - Mastering Monero_ The future of private transactions (2018, Independent).epub" style="color: green;" >  #Download# </a>
@@ -17,6 +19,8 @@ featuredImage: './book.jpg'
 *"Academic Writing"* 
 
 *"Write It Up: Practical Strategies for Writing and Publishing Journal Articles"* 
+
+***
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/517kqWXEdCL._SX376_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Rust-Programming-Language-Covers-2018/dp/1718500440/ref=sr_1_1_sspa?crid=3FLS4O8KUJE3D&keywords=the+rust+programming+language&qid=1582486180&sprefix=The+rust+%2Caps%2C160&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyOVVVUjA1STdVVkJZJmVuY3J5cHRlZElkPUEwNzg0MTcwM0hJREszRFY3SVMyRiZlbmNyeXB0ZWRBZElkPUEwODMzOTc5Qk05U09FWEZZUkI2JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 
