@@ -12,6 +12,8 @@ featuredImage: './book.jpg'
 
 *[Mastering Monero:The future of private transactions](https://www.amazon.com/-/es/SerHack-ebook/dp/B07QW35KZN/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Mastering+Monero&qid=1582245906&sr=8-1)* <a href="./SerHack - Mastering Monero_ The future of private transactions (2018, Independent).epub" style="color: green;" >  #Download# </a>
 
+*[HTTP/3 explained](https://http3-explained.haxx.se/en)*
+
 *"Academic Writing"* 
 
 *"Write It Up: Practical Strategies for Writing and Publishing Journal Articles"* 
@@ -22,7 +24,7 @@ featuredImage: './book.jpg'
 
 [<img src="https://m.media-amazon.com/images/I/41UpV7crlHL.jpg" width="200" height="300">](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/B00M284NY2/ref=sr_1_2?keywords=Zero+to+One&qid=1582492441&sr=8-2)
 
-**Zero to One** *Finished on Fab 23, 2020*
+**Zero to One** *Finished on Fab 23, 2020* ### 3.4X speed Audio book 
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51fomOL2S9L._SX322_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/80-20-Principle-Secret-Achieving/dp/0385491743)
 
