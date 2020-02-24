@@ -18,7 +18,17 @@ featuredImage: './book.jpg'
 
 *"Academic Writing"* 
 
-*"Write It Up: Practical Strategies for Writing and Publishing Journal Articles"* 
+*"Write It Up: Practical Strategies for Writing and Publishing Journal Articles"*
+
+*Modern C*
+
+*C++.Crash.Course.2019.9*
+
+*Manning.Functional.Programming.in.C++.2018.11*
+
+*Professional.CPP.4th.Edition.2018.4*
+
+*OReilly.Optimized.Cplusplus.2016.4*
 
 ***
 
