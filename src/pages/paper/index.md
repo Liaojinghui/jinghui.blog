@@ -20,6 +20,10 @@ featuredImage: './paper.jpg'
 
 [HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
 
+**[Ethna: Channel Network with Dynamic Internal Payment Splitting](https://eprint.iacr.org/2020/166.pdf)**
+
+**[Congestion Attacks in Payment Channel Networks](https://arxiv.org/abs/2002.06564)**
+
 ---
 
 02/23/2020 <> **[WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/)** Artical by Lin Clark, Till Schneidereit, and Luke Wagner
