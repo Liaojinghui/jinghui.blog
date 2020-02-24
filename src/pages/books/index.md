@@ -20,15 +20,15 @@ featuredImage: './book.jpg'
 
 *"Write It Up: Practical Strategies for Writing and Publishing Journal Articles"*
 
-*Modern C*
+*"Modern C"*
 
-*C++.Crash.Course.2019.9*
+*"C++.Crash.Course.2019.9"*
 
-*Manning.Functional.Programming.in.C++.2018.11*
+*"Manning.Functional.Programming.in.C++.2018.11"*
 
-*Professional.CPP.4th.Edition.2018.4*
+*"Professional.CPP.4th.Edition.2018.4"*
 
-*OReilly.Optimized.Cplusplus.2016.4*
+*"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
 
