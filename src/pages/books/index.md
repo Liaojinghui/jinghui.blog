@@ -1,12 +1,12 @@
 ---
 title: Books that I read
-date: "2020-02-24"
+date: "2020-02-25"
 featuredImage: './book.jpg'
 ---
 
 **Currently Reading:** *The Rust Programming Language(2019)* by RUST
 
-### Progress: [===>------------] 30%
+### Progress: [====>-----------] 36%
 
 ---
 

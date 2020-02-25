@@ -1,6 +1,6 @@
 ---
 title: Papers that I read
-date: "2020-02-24"
+date: "2020-02-25"
 featuredImage: './paper.jpg'
 ---
 
@@ -18,13 +18,9 @@ featuredImage: './paper.jpg'
 
 [Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](https://eprint.iacr.org/2020/190.pdf)
 
-[HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)
-
-**[Ethna: Channel Network with Dynamic Internal Payment Splitting](https://eprint.iacr.org/2020/166.pdf)**
-
-**[Congestion Attacks in Payment Channel Networks](https://arxiv.org/abs/2002.06564)**
-
 ---
+
+02/25/2020 <> **[HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)** <a href="./20200225.pdf" style="color: red;" >  #MindMap# </a>
 
 02/24/2020 <> **[Ethna: Channel Network with Dynamic Internal Payment Splitting](https://eprint.iacr.org/2020/166)** <a href="./20200224.pdf" style="color: red;" >  #MindMap# </a>
 
