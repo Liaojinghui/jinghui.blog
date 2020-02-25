@@ -26,6 +26,8 @@ featuredImage: './paper.jpg'
 
 ---
 
+02/24/2020 <> **[Ethna: Channel Network with Dynamic Internal Payment Splitting](https://eprint.iacr.org/2020/166)** <a href="./20200224.pdf" style="color: red;" >  #MindMap# </a>
+
 02/23/2020 <> **[WebAssembly’s post-MVP future: A cartoon skill tree](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/)** Artical by Lin Clark, Till Schneidereit, and Luke Wagner
 
 02/23/2020 <> **[Secure Encrypted Virtualization API Version 0.22](https://developer.amd.com/wp-content/resources/55766.PDF)** from AMD SEV
