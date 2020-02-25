@@ -6,7 +6,7 @@ featuredImage: './book.jpg'
 
 **Currently Reading:** *The Rust Programming Language(2019)* by RUST
 
-### Progress: [====>-----------] 36%
+### Progress: [=====>----------] 43%
 
 ---
 
