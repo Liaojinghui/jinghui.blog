@@ -6,7 +6,10 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
-**[](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/07/Hyper-Cube-NDSS20.pdf)**
+**[HYPER-CUBE: High-Dimensional Hypervisor
+Fuzzing](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/07/Hyper-Cube-NDSS20.pdf)**
+
+**[ROTE: Rollback Protection for Trusted Execution](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/matetic)**
 
 **[AMD64 Architecture Programmer’s Manual Volume 2: System Programming](https://www.amd.com/system/files/TechDocs/24593.pdf)** from AMD
 
