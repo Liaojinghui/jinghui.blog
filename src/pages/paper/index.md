@@ -1,6 +1,6 @@
 ---
 title: Papers that I read
-date: "2020-02-25"
+date: "2020-02-27"
 featuredImage: './paper.jpg'
 ---
 
@@ -18,7 +18,7 @@ featuredImage: './paper.jpg'
 
 **[Discharged Payment Channels: Quantifying the Lightning Network's Resilience to Topology-Based Attacks](https://ieeexplore.ieee.org/abstract/document/8802506)** from  2019 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
 
-**[this Week in Blockchain Research Issue #46](https://zkcapital.substack.com/p/this-week-in-blockchain-research-15a?utm_campaign=post&utm_medium=email&utm_source=copy)** from *https://zkcapital.substack.com/*
+**[This Week in Blockchain Research Issue #47](https://zkcapital.substack.com/)** from *https://zkcapital.substack.com/*
 
 [Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](https://eprint.iacr.org/2020/190.pdf)
 
