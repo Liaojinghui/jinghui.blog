@@ -8,6 +8,8 @@ featuredImage: './paper.jpg'
 
 **[HYPER-CUBE: High-Dimensional Hypervisor Fuzzing](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/07/Hyper-Cube-NDSS20.pdf)**
 
+**[Ekiden: A Platform for Confidentiality-Preserving,Trustworthy, and Performant Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8806762)**
+
 **[ROTE: Rollback Protection for Trusted Execution](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/matetic)**
 
 **[AMD64 Architecture Programmer’s Manual Volume 2: System Programming](https://www.amd.com/system/files/TechDocs/24593.pdf)** from AMD
