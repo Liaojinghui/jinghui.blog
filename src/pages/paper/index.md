@@ -6,6 +6,8 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[What Blockchains Could Mean for Government and Transportation Operations](https://rosap.ntl.bts.gov/view/dot/34614)** from *U.S. DOT Volpe Center*
+
 **[Blockchain Technology Overview](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf)** from *National Institute of Standards and Technology Internal Report 8202*
 
 **[HYPER-CUBE: High-Dimensional Hypervisor Fuzzing](https://www.syssec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2020/02/07/Hyper-Cube-NDSS20.pdf)**
