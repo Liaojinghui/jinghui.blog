@@ -1,6 +1,6 @@
 ---
 title: Papers that I read
-date: "2020-02-28"
+date: "2020-03-02"
 featuredImage: './paper.jpg'
 ---
 
@@ -27,6 +27,8 @@ featuredImage: './paper.jpg'
 **[This Week in Blockchain Research Issue #47](https://zkcapital.substack.com/)** from *https://zkcapital.substack.com/*
 
 [Proof of Necessary Work:Succinct State Verification with Fairness Guarantees](https://eprint.iacr.org/2020/190.pdf)
+
+**[Intel SGX Explained](https://pdfs.semanticscholar.org/2d7f/3f4ca3fbb15ae04533456e5031e0d0dc845a.pdf?_ga=2.25115133.657488029.1583159911-1329759540.1583159911)**
 
 ---
 
