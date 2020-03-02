@@ -32,7 +32,7 @@ featuredImage: './book.jpg'
 
 ***
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41t8hPSY0oL.jpg" width="200" height="300">](https://www.amazon.com/Laws-Human-Nature-Robert-Greene-ebook/dp/B07BJLX414)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41t8hPSY0oL.jpg" width="200" height="300">](https://www.amazon.com/Its-Not-About-You-Meaningful-ebook/dp/B07YXSLVX7/ref=sr_1_1?keywords=It%27s+Not+About+You&qid=1583115310&sr=8-1)
 
 **It's not about you** *Finished on Mar 1st, 2020* ### Audio book 
 
