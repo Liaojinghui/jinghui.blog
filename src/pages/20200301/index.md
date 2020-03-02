@@ -1,9 +1,8 @@
 ---
 title: Weekly Report
-date: "2020-03-1"
+date: "2020-03-01"
 # featuredImage: './papersurvey.PNG'
 ---
-
 
 Honestly, I was surprised by how fast time flies, though I had thought about it many times, but until I record it in detail did I know its actual speed.
 

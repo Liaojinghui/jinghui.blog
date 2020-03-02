@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-02-28"
+date: "2020-03-01"
 featuredImage: './book.jpg'
 ---
 
@@ -31,6 +31,10 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41t8hPSY0oL.jpg" width="200" height="300">](https://www.amazon.com/Laws-Human-Nature-Robert-Greene-ebook/dp/B07BJLX414)
+
+**It's not about you** *Finished on Mar 1st, 2020* ### Audio book 
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41Xc%2BnZTKdL.jpg" width="200" height="300">](https://www.amazon.com/Laws-Human-Nature-Robert-Greene-ebook/dp/B07BJLX414)
 
