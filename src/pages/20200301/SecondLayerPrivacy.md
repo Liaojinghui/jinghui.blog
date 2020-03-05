@@ -1,4 +1,3 @@
-
 ---
 title: Second Layer Privacy Papers
 date: "2020-03-04"
