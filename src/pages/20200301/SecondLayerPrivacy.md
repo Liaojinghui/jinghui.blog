@@ -1,6 +1,6 @@
 
 ---
-title: Second Layer Privacy paper
+title: Second Layer Privacy Papers
 date: "2020-03-04"
 featuredImage: './paper.jpg'
 ---
