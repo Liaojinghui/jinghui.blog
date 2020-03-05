@@ -6,6 +6,8 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[Exploiting Unprotected I/O Operations in AMD’s Secure Encrypted Virtualization](https://www.usenix.org/system/files/sec19-li-mengyuan_0.pdf)**
+
 **[Double-Spend Counterattacks: Threat of Retaliation in Proof-of-Work Systems](https://arxiv.org/pdf/2002.10736.pdf)**
 
 **[What Blockchains Could Mean for Government and Transportation Operations](https://rosap.ntl.bts.gov/view/dot/34614)** from *U.S. DOT Volpe Center*
