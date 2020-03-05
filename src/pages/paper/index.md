@@ -6,6 +6,8 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[Double-Spend Counterattacks: Threat of Retaliation in Proof-of-Work Systems](https://arxiv.org/pdf/2002.10736.pdf)**
+
 **[What Blockchains Could Mean for Government and Transportation Operations](https://rosap.ntl.bts.gov/view/dot/34614)** from *U.S. DOT Volpe Center*
 
 **[Blockchain Technology Overview](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf)** from *National Institute of Standards and Technology Internal Report 8202*
