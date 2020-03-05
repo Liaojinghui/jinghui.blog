@@ -1,5 +1,9 @@
 
-#区块链安全分析： 从NEO看日蚀攻击
+---
+title: 区块链安全分析： 从NEO看日蚀攻击
+date: "2020-03-04"
+featuredImage: './paper.jpg'
+---
 
 *00 前言*
 

@@ -1,4 +1,9 @@
 
+---
+title: Second Layer Privacy paper
+date: "2020-03-04"
+featuredImage: './paper.jpg'
+---
 
 * [The bitcoin lightning network: Scalable off-chain instant payments](https://www.weusecoins.com/assets/pdf/library/Lightning%20Network%20Whitepaper.pdf) - The Lightning Network
 
