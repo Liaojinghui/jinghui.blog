@@ -1,12 +1,12 @@
 ---
 title: Papers that I read
-date: "2020-03-04"
+date: "2020-03-06"
 featuredImage: './paper.jpg'
 ---
 
 **Paper/Document to Read>>** 
 
-**[Exploiting Unprotected I/O Operations in AMD’s Secure Encrypted Virtualization](https://www.usenix.org/system/files/sec19-li-mengyuan_0.pdf)**
+
 
 **[Double-Spend Counterattacks: Threat of Retaliation in Proof-of-Work Systems](https://arxiv.org/pdf/2002.10736.pdf)**
 
@@ -35,6 +35,8 @@ featuredImage: './paper.jpg'
 **[Intel SGX Explained](https://pdfs.semanticscholar.org/2d7f/3f4ca3fbb15ae04533456e5031e0d0dc845a.pdf?_ga=2.25115133.657488029.1583159911-1329759540.1583159911)**
 
 ---
+
+03/06/2020 <> **[Exploiting Unprotected I/O Operations in AMD’s Secure Encrypted Virtualization](https://www.usenix.org/system/files/sec19-li-mengyuan_0.pdf)** <a href="./20200306.pdf" style="color: red;" >  #MindMap# </a>
 
 02/25/2020 <> **[HEB: Hybrid Expenditure Blockchain](https://arxiv.org/pdf/1911.04124.pdf)** <a href="./20200225.pdf" style="color: red;" >  #MindMap# </a>
 
