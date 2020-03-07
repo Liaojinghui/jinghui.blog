@@ -6,7 +6,7 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
-
+**[KShot: Live Kernel Patching with SMM and SGX](https://hotcrp.dsn20.org/doc/DSN2020-paper174.pdf)**
 
 **[Double-Spend Counterattacks: Threat of Retaliation in Proof-of-Work Systems](https://arxiv.org/pdf/2002.10736.pdf)**
 
