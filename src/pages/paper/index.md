@@ -1,6 +1,6 @@
 ---
 title: Papers that I read
-date: "2020-03-06"
+date: "2020-03-07"
 featuredImage: './paper.jpg'
 ---
 
@@ -9,8 +9,6 @@ featuredImage: './paper.jpg'
 
 
 **[Double-Spend Counterattacks: Threat of Retaliation in Proof-of-Work Systems](https://arxiv.org/pdf/2002.10736.pdf)**
-
-**[What Blockchains Could Mean for Government and Transportation Operations](https://rosap.ntl.bts.gov/view/dot/34614)** from *U.S. DOT Volpe Center*
 
 **[Blockchain Technology Overview](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf)** from *National Institute of Standards and Technology Internal Report 8202*
 
@@ -35,6 +33,8 @@ featuredImage: './paper.jpg'
 **[Intel SGX Explained](https://pdfs.semanticscholar.org/2d7f/3f4ca3fbb15ae04533456e5031e0d0dc845a.pdf?_ga=2.25115133.657488029.1583159911-1329759540.1583159911)**
 
 ---
+
+03/07/2020 <> **[What Blockchains Could Mean for Government and Transportation Operations](https://rosap.ntl.bts.gov/view/dot/34614)** from *U.S. DOT Volpe Center* <a href="./20200307.pdf" style="color: red;" >  #MindMap# </a>
 
 03/06/2020 <> **[Exploiting Unprotected I/O Operations in AMD’s Secure Encrypted Virtualization](https://www.usenix.org/system/files/sec19-li-mengyuan_0.pdf)** <a href="./20200306.pdf" style="color: red;" >  #MindMap# </a>
 
