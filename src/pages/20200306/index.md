@@ -10,7 +10,7 @@ date: "2020-03-07"
 
 ## 01 背景
 
-可信执行环境（Trused Execution Environment，TEE）是一个由处理器直接管理的隔离区域，在可信执行环境中运行的code将完全隔离于系统以及Hypervisor。目前在主流的芯片架构平台都已经有了自己独特的可信执行环境。ARM平台有TrustZone，目前我们用的Android也好苹果也好，都是用TrustZone来保护我们录入的指纹信息，脸部信息等等的个人隐私数据；Intel平台有Software Guard Extensions(SGX)，归功于Intel提供的便利的SDK和开发环境，这也是目前学术界使用最广泛的一个TEE平台，也是目前唯一已有的在区块链项目中使用的TEE；AMD的服务器芯片中有Secure Encrypted Virtualization (SEV)，这个主要是对服务器上运行的虚拟机的内存进行加密，原理是在AMD的处理器里内置一块小的ARM芯片专门用来加密虚拟机的内存和在状态切换时加密寄存器。
+可信执行环境（Trused Execution Environment，TEE）是一个由处理器直接管理的隔离区域，在可信执行环境中运行的code将完全隔离于系统以及Hypervisor。目前在主流的芯片架构平台都已经有了自己独特的可信执行环境。ARM平台有TrustZone，目前我们用的Android也好苹果也好，都是用TrustZone来保护我们录入的指纹信息，脸部信息等等的个人隐私数据；Intel平台有Software Guard Extensions(SGX)，归功于Intel提供的便利的SDK和开发环境，这也是目前学术界使用最广泛的一个TEE平台，也是目前已有的较多在区块链项目中使用的TEE；AMD的服务器芯片中有Secure Encrypted Virtualization (SEV)，这个主要是对服务器上运行的虚拟机的内存进行加密，原理是在AMD的处理器里内置一块小的ARM芯片专门用来加密虚拟机的内存和在状态切换时加密寄存器。
 
 ## 02 可信执行环境在区块链中的应用案例
 
