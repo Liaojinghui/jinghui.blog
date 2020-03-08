@@ -8,6 +8,8 @@ featuredImage: './paper.jpg'
 
 **[KShot: Live Kernel Patching with SMM and SGX](https://hotcrp.dsn20.org/doc/DSN2020-paper174.pdf)**
 
+**[Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)**
+
 **[Double-Spend Counterattacks: Threat of Retaliation in Proof-of-Work Systems](https://arxiv.org/pdf/2002.10736.pdf)**
 
 **[Blockchain Technology Overview](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf)** from *National Institute of Standards and Technology Internal Report 8202*
