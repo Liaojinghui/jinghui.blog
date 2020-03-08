@@ -6,9 +6,13 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[](http://docs.keystone-enclave.org/en/latest/)**
+
+
+
 **[Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://dl.acm.org/doi/abs/10.1145/3319535.3363221)**
 
-**[KShot: Live Kernel Patching with SMM and SGX](https://hotcrp.dsn20.org/doc/DSN2020-paper174.pdf)**
+**[KShot: Live Kernel Patching with SMM and SGX](./DSN2020-paper174.pdf)**
 
 **[Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)**
 
@@ -37,6 +41,8 @@ featuredImage: './paper.jpg'
 **[Intel SGX Explained](https://pdfs.semanticscholar.org/2d7f/3f4ca3fbb15ae04533456e5031e0d0dc845a.pdf?_ga=2.25115133.657488029.1583159911-1329759540.1583159911)**
 
 ---
+
+03/07/2020 <> **[10 State Channel Projects Every Blockchain Developer Should Know About](https://hackernoon.com/10-state-channel-projects-every-blockchain-developer-should-know-about-293514a516fd)**
 
 03/07/2020 <> **[What Blockchains Could Mean for Government and Transportation Operations](https://rosap.ntl.bts.gov/view/dot/34614)** from *U.S. DOT Volpe Center* <a href="./20200307.pdf" style="color: red;" >  #MindMap# </a>
 
