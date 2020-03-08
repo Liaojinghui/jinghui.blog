@@ -1,5 +1,5 @@
 ---
-title: Reseach Idea Clip
+title: Reseach Idea Clips
 date: "2020-03-07"
 featuredImage: './idea.png'
 ---
