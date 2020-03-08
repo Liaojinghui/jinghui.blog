@@ -13,3 +13,5 @@ featuredImage: './idea.png'
 *03/07/2020* <> Protect the Town Crier Oracle from some type of attack. ## Need study
 
 *03/07/2020* <> Delay transaction execution. ## Need study
+
+*03/07/2020* <> Protect the right of coins that we deposit to the exchange. ## Need study
