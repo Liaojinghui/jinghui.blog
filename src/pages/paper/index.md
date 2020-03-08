@@ -6,6 +6,8 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://dl.acm.org/doi/abs/10.1145/3319535.3363221)**
+
 **[KShot: Live Kernel Patching with SMM and SGX](https://hotcrp.dsn20.org/doc/DSN2020-paper174.pdf)**
 
 **[Ethereum Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)**
