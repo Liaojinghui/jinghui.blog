@@ -1,6 +1,6 @@
 ---
 title: Papers that I read
-date: "2020-03-09"
+date: "2020-03-10"
 featuredImage: './paper.jpg'
 ---
 
@@ -41,6 +41,8 @@ featuredImage: './paper.jpg'
 **[Intel SGX Explained](https://pdfs.semanticscholar.org/2d7f/3f4ca3fbb15ae04533456e5031e0d0dc845a.pdf?_ga=2.25115133.657488029.1583159911-1329759540.1583159911)**
 
 ---
+
+03/10/2020 <> **[Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity](https://www.computer.org/csdl/proceedings-article/sp/2020/349700b193/1i0rIvzEiK4)**
 
 03/07/2020 <> **[10 State Channel Projects Every Blockchain Developer Should Know About](https://hackernoon.com/10-state-channel-projects-every-blockchain-developer-should-know-about-293514a516fd)**
 
