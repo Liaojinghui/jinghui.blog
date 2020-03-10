@@ -91,7 +91,7 @@ Ekiden 也是出自康奈尔大学，我对他们可谓怨念颇深，怪我入�
 
 可信执行环境和区块链的结合应该是一种大势所趋，过去每年安全定会都会不少相关文章，经过几年科研领域的探索，相信未来在工业界也会慢慢出现更多相关的项目。衷心希望NEO可以在此有所成就有所突破。
 
-And I also think the AMD SEV would be a perfect choice for Neo consensus node.
+And I also think the AMD SEV would be a perfect TEE choice for Neo consensus node.
 
 ## 06 总结
 
