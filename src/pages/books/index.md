@@ -90,3 +90,7 @@ featuredImage: './book.jpg'
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51Jq8T2NnPL._SX310_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Anything-You-Want-Lessons-Entrepreneur/dp/1511366079)
 
 **Anything You Want** *Finished on Fab 11, 2020*
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41%2BaN7ZbS9L._SX327_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590501)
+
+**AEducated: A Memoir** *Finished in 2019*
