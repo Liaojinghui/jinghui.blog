@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-03-11"
+date: "2020-03-12"
 featuredImage: './book.jpg'
 ---
 
@@ -31,6 +31,10 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+[<img src="https://m.media-amazon.com/images/I/513GdY+nZEL.jpg" width="300" height="300">](https://www.amazon.com/Break-Shot-First-Years-Taylor/dp/B081D93GP6)
+
+**Tell Me Lies** *Finished on Mar 12, 2020* ### Audio book
 
 [<img src="https://m.media-amazon.com/images/I/51rVWypC0gL._SL500_.jpg" width="200" height="300">](https://www.audible.com/pd/Tell-Me-Lies-Audiobook/B084G9WVWZ)
 
