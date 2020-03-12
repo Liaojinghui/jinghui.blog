@@ -32,7 +32,7 @@ featuredImage: './book.jpg'
 
 ***
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/413dA%2BkJxNL._SX331_BO1,204,203,200_.jpg" width="300" height="300">](https://www.amazon.com/Think-Again-How-Reason-Argue/dp/0190627123)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/413dA%2BkJxNL._SX331_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Think-Again-How-Reason-Argue/dp/0190627123)
 
 **Think Again: How to Reason and Argue** *Finished on Mar 12, 2020*
 
