@@ -32,6 +32,10 @@ featuredImage: './book.jpg'
 
 ***
 
+[<img src="https://m.media-amazon.com/images/I/51rVWypC0gL._SL500_.jpg" width="200" height="300">](https://www.audible.com/pd/Tell-Me-Lies-Audiobook/B084G9WVWZ)
+
+**Tell Me Lies** *Finished on Mar 11, 2020* ### Audio book
+
 [<img src="https://m.media-amazon.com/images/I/41dTDMW9IhL.jpg" width="250" height="300">](https://www.amazon.com/HighBridge-Division-of-Recorded-Books/dp/B00X0TKUS0/ref=sr_1_2?crid=1YW2YWKHD1MGJ&keywords=48+laws+of+power&qid=1583951607&sprefix=LAW+48%2Caps%2C314&sr=8-2)
 
 **48 Laws of Power** *Finished on Mar 11, 2020* ### Audio book 
