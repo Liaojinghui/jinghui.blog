@@ -1,12 +1,10 @@
 ---
 title: Papers that I read
-date: "2020-03-10"
+date: "2020-03-12"
 featuredImage: './paper.jpg'
 ---
 
 **Paper/Document to Read>>** 
-
-**[KeyStone](http://docs.keystone-enclave.org/en/latest/)**
 
 **[2020 IEEE Symposium on Security and Privacy (SP)](https://www.computer.org/csdl/proceedings/sp/2020/1dAAQaOrrva)**
 
@@ -41,6 +39,8 @@ featuredImage: './paper.jpg'
 **[Intel SGX Explained](https://pdfs.semanticscholar.org/2d7f/3f4ca3fbb15ae04533456e5031e0d0dc845a.pdf?_ga=2.25115133.657488029.1583159911-1329759540.1583159911)**
 
 ---
+
+03/12/2020 <> **[KeyStone](http://docs.keystone-enclave.org/en/latest/)**
 
 03/10/2020 <> **[Semantic Understanding of Smart Contracts: Executable Operational Semantics of Solidity](https://www.computer.org/csdl/proceedings-article/sp/2020/349700b193/1i0rIvzEiK4)**
 
