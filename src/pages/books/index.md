@@ -4,6 +4,8 @@ date: "2020-03-13"
 featuredImage: './book.jpg'
 ---
 
+### Total: 19
+
 **Currently Reading:** *The Rust Programming Language(2019)* by RUST
 
 ### Progress: [=====>----------] 43%
