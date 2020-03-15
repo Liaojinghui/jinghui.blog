@@ -4,7 +4,7 @@ date: "2020-03-15"
 featuredImage: './book.jpg'
 ---
 
-### Total: 20
+### Total: 22
 
 **Currently Reading:** *The Rust Programming Language(2019)* by RUST
 
