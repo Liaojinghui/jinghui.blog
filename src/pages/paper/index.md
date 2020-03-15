@@ -1,6 +1,6 @@
 ---
 title: Papers that I read
-date: "2020-03-12"
+date: "2020-03-14"
 featuredImage: './paper.jpg'
 ---
 
@@ -39,6 +39,8 @@ featuredImage: './paper.jpg'
 **[Intel SGX Explained](https://pdfs.semanticscholar.org/2d7f/3f4ca3fbb15ae04533456e5031e0d0dc845a.pdf?_ga=2.25115133.657488029.1583159911-1329759540.1583159911)**
 
 ---
+
+03/14/2020 <> **[HydRand: Efficient Continuous Distributed Randomness](https://www.computer.org/csdl/proceedings-article/sp/2020/349700a032/1i0rHWfJ0ek)**
 
 03/12/2020 <> **[KeyStone](http://docs.keystone-enclave.org/en/latest/)**
 
