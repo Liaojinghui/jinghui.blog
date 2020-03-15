@@ -34,7 +34,7 @@ featuredImage: './book.jpg'
 
 ***
 
-[<img src="https://images-na.ssl-images-amazon.com/images/I/41ILRrgp5-L._SX322_BO1,204,203,200_.jpg" width="250" height="300">](https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41ILRrgp5-L._SX322_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X)
 
 **The 5 Love Languages: The Secret to Love that Lasts** *Finished on Mar 15, 2020*
 
