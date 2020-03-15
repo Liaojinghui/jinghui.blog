@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-03-13"
+date: "2020-03-15"
 featuredImage: './book.jpg'
 ---
 
@@ -33,6 +33,15 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41ILRrgp5-L._SX322_BO1,204,203,200_.jpg" width="250" height="300">](https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X)
+
+**The 5 Love Languages: The Secret to Love that Lasts** *Finished on Mar 15, 2020*
+
+
+[<img src="https://m.media-amazon.com/images/I/51nRcvCpNjL._SL500_.jpg" width="280" height="300">](https://www.audible.com/pd/Days-that-Changed-the-World-Audiobook/B07D4MB3KP)
+
+**Days that Changed the World** *Finished on Mar 14, 2020* ##Audio Book
 
 [<img src="https://m.media-amazon.com/images/I/510FNU53scL._SL500_.jpg" width="280" height="300">](https://www.audible.com/pd/Unheard-The-Story-of-Anna-Winslow-Audiobook/B0779H5SLM?qid=1584148294&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=e81b7c27-6880-467a-b5a7-13cef5d729fe&pf_rd_r=T4G818JSRVH00HS5G7D0)
 
