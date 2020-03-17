@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-03-15"
+date: "2020-03-16"
 featuredImage: './book.jpg'
 ---
 
@@ -33,6 +33,10 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51vHCno0a4L._SX330_BO1,204,203,200_.jpg" width="200" height="300">](https://podcasts.apple.com/us/podcast/communist-manifesto-by-karl/id866426771)
+
+**The Communist Manifesto by Karl Marx and Friedrich Engels** *Finished on Mar 16, 2020*
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41ILRrgp5-L._SX322_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Love-Languages-Secret-that-Lasts/dp/080241270X)
 
