@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-03-16"
+date: "2020-03-23"
 featuredImage: './book.jpg'
 ---
 
@@ -33,6 +33,10 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/412MBJ9ojxL.jpg" width="200" height="300">](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto-ebook/dp/B001FA0W5W/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1585009282&sr=8-2)
+
+**Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets** *Finished on Mar 23, 2020*
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51vHCno0a4L._SX330_BO1,204,203,200_.jpg" width="200" height="300">](https://podcasts.apple.com/us/podcast/communist-manifesto-by-karl/id866426771)
 
