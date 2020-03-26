@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-03-23"
+date: "2020-03-26"
 featuredImage: './book.jpg'
 ---
 
@@ -13,8 +13,6 @@ featuredImage: './book.jpg'
 ---
 
 **Books to Read:** 
-
-*[Mastering Monero:The future of private transactions](https://www.amazon.com/-/es/SerHack-ebook/dp/B07QW35KZN/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Mastering+Monero&qid=1582245906&sr=8-1)* <a href="./SerHack - Mastering Monero_ The future of private transactions (2018, Independent).epub" style="color: green;" >  #Download# </a>
 
 *[HTTP/3 explained](https://http3-explained.haxx.se/en)*
 
@@ -33,6 +31,10 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51eYxZSJGXL._SX331_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Mastering-Monero-future-private-transactions/dp/1731079966) <a href="./SerHack - Mastering Monero_ The future of private transactions (2018, Independent).epub" style="color: green;" >  #Download# </a>
+
+**Mastering Monero:The future of private transactions** *Finished on Mar 26, 2020*
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/412MBJ9ojxL.jpg" width="200" height="300">](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto-ebook/dp/B001FA0W5W/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1585009282&sr=8-2)
 
