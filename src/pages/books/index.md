@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-03-26"
+date: "2020-04-01"
 featuredImage: './book.jpg'
 ---
 
@@ -31,6 +31,12 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+
+[<img src="https://images-cn.ssl-images-amazon.com/images/I/51nb4aGEqWL.jpg" width="200" height="300">](https://www.amazon.cn/dp/B079HR51RL)
+
+**死人经** *Finished on April 1, 2020*
+
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51eYxZSJGXL._SX331_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Mastering-Monero-future-private-transactions/dp/1731079966) <a href="./SerHack - Mastering Monero_ The future of private transactions (2018, Independent).epub" style="color: green;" >  #Download# </a>
 
