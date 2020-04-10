@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-04-01"
+date: "2020-04-10"
 featuredImage: './book.jpg'
 ---
 
@@ -32,6 +32,9 @@ featuredImage: './book.jpg'
 
 ***
 
+[<img src="https://m.media-amazon.com/images/I/41l-8YCpoxL.jpg" width="200" height="300">](https://www.amazon.com/Art-Loving-Erich-Fromm-ebook/dp/B00BBPWAJC/ref=sr_1_1?dchild=1&keywords=the+art+of+loving&qid=1586547329&sr=8-1)
+
+**The Art of Loving** *Finished on April 10, 2020*
 
 [<img src="https://images-cn.ssl-images-amazon.com/images/I/51nb4aGEqWL.jpg" width="200" height="300">](https://www.amazon.cn/dp/B079HR51RL)
 
