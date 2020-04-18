@@ -1,6 +1,6 @@
 ---
 title: Papers that I read
-date: "2020-03-25"
+date: "2020-04-17"
 featuredImage: './paper.jpg'
 ---
 
@@ -8,9 +8,10 @@ featuredImage: './paper.jpg'
 
 **[MicroCash: Practical Concurrent Processing of Micropayments](https://arxiv.org/abs/1911.08520)**
 
+**[Fast and secure global payments with Stellar](https://www.scs.stanford.edu/~dm/home/papers/lokhava:stellar-core.pdf)**
+
 **[2020 IEEE Symposium on Security and Privacy (SP)](https://www.computer.org/csdl/proceedings/sp/2020/1dAAQaOrrva)**
 
-**[Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://dl.acm.org/doi/abs/10.1145/3319535.3363221)**
 
 **[KShot: Live Kernel Patching with SMM and SGX](./DSN2020-paper174.pdf)**
 
