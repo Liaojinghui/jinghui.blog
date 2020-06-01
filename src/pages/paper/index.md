@@ -6,8 +6,6 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
-**[FlyClient: Super-Light Clients for Cryptocurrencies](https://conferences.computer.org/sp/pdfs/sp/2020/349700a928.pdf)**
-
 
 **[MicroCash: Practical Concurrent Processing of Micropayments](https://arxiv.org/abs/1911.08520)**
 
@@ -45,6 +43,8 @@ featuredImage: './paper.jpg'
 **[Intel SGX Explained](https://pdfs.semanticscholar.org/2d7f/3f4ca3fbb15ae04533456e5031e0d0dc845a.pdf?_ga=2.25115133.657488029.1583159911-1329759540.1583159911)**
 
 ---
+
+05/27/2020 <> **[FlyClient: Super-Light Clients for Cryptocurrencies](https://conferences.computer.org/sp/pdfs/sp/2020/349700a928.pdf)**
 
 03/14/2020 <> **[HydRand: Efficient Continuous Distributed Randomness](https://www.computer.org/csdl/proceedings-article/sp/2020/349700a032/1i0rHWfJ0ek)**
 
