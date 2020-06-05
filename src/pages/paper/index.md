@@ -6,6 +6,8 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network](https://www.comp.nus.edu.sg/~kangms/papers/erebus-attack.pdf)** S&P20
+
 
 **[MicroCash: Practical Concurrent Processing of Micropayments](https://arxiv.org/abs/1911.08520)**
 
