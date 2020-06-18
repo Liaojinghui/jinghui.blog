@@ -1,10 +1,13 @@
 ---
 title: Papers that I read
-date: "2020-06-05"
+date: "2020-06-18"
 featuredImage: './paper.jpg'
 ---
 
 **Paper/Document to Read>>** 
+
+
+**[Flood & Loot: A Systemic Attack On The Lightning Network](https://arxiv.org/pdf/2006.08513.pdf)**
 
 **[A Stealthier Partitioning Attack against Bitcoin Peer-to-Peer Network](https://www.comp.nus.edu.sg/~kangms/papers/erebus-attack.pdf)** S&P20
 
