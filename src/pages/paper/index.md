@@ -6,6 +6,11 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[Towards Designing A Secure Plausibly Deniable System for Mobile Devices against Multi-snapshot Adversaries -- A Preliminary Design](https://arxiv.org/abs/2002.02379)**
+
+**[MobiCeal: Towards Secure and Practical Plausibly Deniable Encryption on Mobile Devices](http://webpages.eng.wayne.edu/~fy8421/paper/mobiceal-dsn18.pdf)**
+
+**[MobiHydra: Pragmatic and Multi-Level Plausibly Deniable Encryption Storage for Mobile Devices]()**
 
 **[Flood & Loot: A Systemic Attack On The Lightning Network](https://arxiv.org/pdf/2006.08513.pdf)**
 
