@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-04-10"
+date: "2020-07-18"
 featuredImage: './book.jpg'
 ---
 
