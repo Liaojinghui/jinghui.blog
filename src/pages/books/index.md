@@ -32,6 +32,10 @@ featuredImage: './book.jpg'
 
 ***
 
+[<img src="https://img9.doubanio.com/view/subject/s/public/s1118588.jpg" width="200" height="300">](https://book.douban.com/subject/1069685/)
+
+**爱你就像爱生命** *Finished on Sep 13, 2020*
+
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51I2ewthkmL._SX325_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Element-Finding-Passion-Changes-Everything/dp/0143116738/ref=sr_1_3?dchild=1&keywords=The+Element&qid=1595114142&sr=8-3)
 
 **The Element** *Finished on July 18, 2020*
