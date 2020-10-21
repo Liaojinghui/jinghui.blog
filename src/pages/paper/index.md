@@ -1,10 +1,13 @@
 ---
 title: Papers that I read
-date: "2020-06-18"
+date: "2020-10-21"
 featuredImage: './paper.jpg'
 ---
 
 **Paper/Document to Read>>** 
+
+**[CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance,and Accountability](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Feprint.iacr.org%2F2020%2F934.pdf)**
+
 
 **[Towards Designing A Secure Plausibly Deniable System for Mobile Devices against Multi-snapshot Adversaries -- A Preliminary Design](https://arxiv.org/abs/2002.02379)**
 
