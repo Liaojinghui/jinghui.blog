@@ -8,15 +8,17 @@ featuredImage: './paper.jpg'
 
 **[BDoS: Blockchain Denial of Service](https://arxiv.org/abs/1912.07497) - CCS 2020**
 
-**[]()**
+**[eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://arxiv.org/abs/2005.06227) - CCS 2020**
 
-**[]()**
+**[Dumbo: Faster Asynchronous BFT Protocols?](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Feprint.iacr.org%2F2020%2F841.pdf) - CCS 2020**
 
-**[]()**
+**[Snappy: Fast On-chain Payments with Practical Collaterals](https://arxiv.org/abs/2001.01278) - NDSS 2020**
 
-**[]()**
+**[High Throughput Cryptocurrency Routing in Payment Channel Networks](https://www.usenix.org/conference/nsdi20/presentation/sivaraman) - NSDI 2020**
 
-**[]()**
+**[Secure Balance Planning of Off-blockchain Payment Channel Networks](https://ieeexplore.ieee.org/abstract/document/9155375?casa_token=grcZHUMb5IUAAAAA:7v5tmkUgE4-Fgf1XjE-65ruN-o4xOw62vwkjVR8MmXC2_JUbyeze_hUjdFTTxzbl0O2SJKJJrGU) - INFOCOM 2020**
+
+**[]() - NSDI 2020**
 
 **[Pixel: Multi-signatures for Consensus](https://www.usenix.org/conference/usenixsecurity20/presentation/drijvers)- CCS 2020**
 
