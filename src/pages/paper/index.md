@@ -6,7 +6,21 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
-**[CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance,and Accountability](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Feprint.iacr.org%2F2020%2F934.pdf)**
+**[BDoS: Blockchain Denial of Service](https://arxiv.org/abs/1912.07497) - CCS 2020**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[]()**
+
+**[Pixel: Multi-signatures for Consensus](https://www.usenix.org/conference/usenixsecurity20/presentation/drijvers)- CCS 2020**
+
+**[CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance,and Accountability](chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/pdf-viewer/web/viewer.html?file=https%3A%2F%2Feprint.iacr.org%2F2020%2F934.pdf)- S&P 2021**
 
 
 **[Towards Designing A Secure Plausibly Deniable System for Mobile Devices against Multi-snapshot Adversaries -- A Preliminary Design](https://arxiv.org/abs/2002.02379)**
