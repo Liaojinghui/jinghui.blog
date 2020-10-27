@@ -6,6 +6,8 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[Towards Cross-Blockchain Smart Contracts](https://arxiv.org/abs/2010.07352?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29) - zk Capital Issue #79**
+
 **[Garou: An Efficient and Secure Off-BlockchainMulti-Party Payment Hub](https%3A%2F%2Farxiv.org%2Fpdf%2F2010.07555.pdf) - zk Capital Issue #79**
 
 **[BDoS: Blockchain Denial of Service](https://arxiv.org/abs/1912.07497) - CCS 2020**
