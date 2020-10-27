@@ -6,6 +6,8 @@ featuredImage: './paper.jpg'
 
 **Paper/Document to Read>>** 
 
+**[Garou: An Efficient and Secure Off-BlockchainMulti-Party Payment Hub](https%3A%2F%2Farxiv.org%2Fpdf%2F2010.07555.pdf) - zk Capital Issue #79**
+
 **[BDoS: Blockchain Denial of Service](https://arxiv.org/abs/1912.07497) - CCS 2020**
 
 **[eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://arxiv.org/abs/2005.06227) - CCS 2020**
