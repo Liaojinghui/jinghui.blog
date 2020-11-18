@@ -32,6 +32,10 @@ featuredImage: './book.jpg'
 
 ***
 
+[<img src="https://images-na.ssl-images-amazon.com/images/I/41RIi4hhxnL._SX331_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Girl-Mirror-Novel-Rose-Carlyle/dp/0063030144)
+
+**The Girl in The Mirror** *Finished on Nov 13, 2020*
+
 [<img src="https://img9.doubanio.com/view/subject/s/public/s1118588.jpg" width="200" height="300">](https://book.douban.com/subject/1069685/)
 
 **爱你就像爱生命** *Finished on Sep 13, 2020*
