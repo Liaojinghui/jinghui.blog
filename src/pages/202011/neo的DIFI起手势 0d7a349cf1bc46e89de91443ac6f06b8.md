@@ -4,7 +4,7 @@ date: "2020-11-20"
 # <!-- featuredImage: './book.jpg' -->
 ---
 
-Property: Blog, Neo
+<!-- Property: Blog, Neo -->
 
 最近参与了neo的difi项目火烈鸟的朋友们应该对nNEO这个代币不陌生，这是NEO代币基于NEP-5协议发行的Token，发行方式由NEO一比一兑换而来。有些朋友可能就要好奇了，明明NEO用的好好的，干嘛非要再搞出来一个基于NEP-5版本的nNEO来呢，这不是平白增加了用户操作的复杂度么，尤其是现在各大交易所仅仅支持NEO，而不支持nNEO。
 
