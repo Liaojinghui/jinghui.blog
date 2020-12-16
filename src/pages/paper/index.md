@@ -1,10 +1,12 @@
 ---
 title: Papers that I read
-date: "2020-10-27"
+date: "2020-12-15"
 featuredImage: './paper.jpg'
 ---
 
 **Paper/Document to Read>>** 
+
+**[ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3372297.3417243?casa_token=1GxJiE2ErWYAAAAA:71Y9EwoJSN1rN_9d_qX6MUtwQMfvpA7WGrttBadRD8buYfurHdIKgma5VOuKa_oBtNnCtsb0PkS6) - CCS'2020**
 
 **[Towards Cross-Blockchain Smart Contracts](https://arxiv.org/abs/2010.07352?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29) - zk Capital Issue #79**
 
