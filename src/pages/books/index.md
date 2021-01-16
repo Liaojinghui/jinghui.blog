@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2020-11-18"
+date: "2021-01-16"
 featuredImage: './book.jpg'
 ---
 
@@ -31,6 +31,11 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+[<https://m.media-amazon.com/images/I/51n-q69gn4L.jpg" width="200" height="300">](https://www.amazon.com/Master-Your-Emotions-Practical-Negativity-ebook/dp/B07CX8H6YH)
+
+**Master Your Emotions: A Practical Guide to Overcome Negativity and Better Manage Your Feelings** *Finished on Jan 16, 2021*
+
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/41RIi4hhxnL._SX331_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Girl-Mirror-Novel-Rose-Carlyle/dp/0063030144)
 
