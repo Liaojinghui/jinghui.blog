@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-01-16"
+date: "2021-01-20"
 featuredImage: './book.jpg'
 ---
 
@@ -31,6 +31,11 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+[<https://images-na.ssl-images-amazon.com/images/I/51Tlm0GZTXL._SX329_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+
+**Atomic Habits** *Finished on Jan 20, 2021*
+
 
 [<https://m.media-amazon.com/images/I/51n-q69gn4L.jpg" width="200" height="300">](https://www.amazon.com/Master-Your-Emotions-Practical-Negativity-ebook/dp/B07CX8H6YH)
 
