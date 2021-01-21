@@ -1,10 +1,8 @@
 ---
 title: Books that I read
-date: "2021-01-20"
+date: "2021-01-21"
 featuredImage: './book.jpg'
 ---
-
-### Total: 22
 
 **Currently Reading:** *The Rust Programming Language(2019)* by RUST
 
@@ -31,6 +29,11 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+
+[<https://img9.doubanio.com/view/subject/l/public/s27196248.jpg" width="200" height="300">](https://book.douban.com/subject/25782902/)
+
+**反脆弱** *Finished on Jan 21, 2021*
 
 [<https://images-na.ssl-images-amazon.com/images/I/51Tlm0GZTXL._SX329_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 
