@@ -30,6 +30,10 @@ featuredImage: './book.jpg'
 
 ***
 
+[<https://img9.doubanio.com/view/subject/s/public/s29105145.jpg" width="200" height="300">](https://book.douban.com/subject/26895993//)
+
+**刻意练习** *Finished on Jan 21, 2021*
+
 
 [<https://img9.doubanio.com/view/subject/l/public/s27196248.jpg" width="200" height="300">](https://book.douban.com/subject/25782902/)
 
