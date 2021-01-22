@@ -30,12 +30,12 @@ featuredImage: './book.jpg'
 
 ***
 
-[<img src="https://img9.doubanio.com/view/subject/s/public/s29105145.jpg" width="200" height="300">](https://book.douban.com/subject/26895993//)
+[<img src="https://images-cn.ssl-images-amazon.cn/images/I/51WDB9ecgvL._SY346_.jpg" width="200" height="300">](https://book.douban.com/subject/26895993//)
 
 **刻意练习** *Finished on Jan 21, 2021*
 
 
-[<img src="https://img9.doubanio.com/view/subject/l/public/s27196248.jpg" width="200" height="300">](https://book.douban.com/subject/25782902/)
+[<img src="https://images-cn.ssl-images-amazon.cn/images/I/41FFkS5j2+L.jpg" width="200" height="300">](https://book.douban.com/subject/25782902/)
 
 **反脆弱** *Finished on Jan 21, 2021*
 
