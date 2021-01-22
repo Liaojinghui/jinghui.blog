@@ -30,21 +30,21 @@ featuredImage: './book.jpg'
 
 ***
 
-[<https://img9.doubanio.com/view/subject/s/public/s29105145.jpg" width="200" height="300">](https://book.douban.com/subject/26895993//)
+[<img src="https://img9.doubanio.com/view/subject/s/public/s29105145.jpg" width="200" height="300">](https://book.douban.com/subject/26895993//)
 
 **刻意练习** *Finished on Jan 21, 2021*
 
 
-[<https://img9.doubanio.com/view/subject/l/public/s27196248.jpg" width="200" height="300">](https://book.douban.com/subject/25782902/)
+[<img src="https://img9.doubanio.com/view/subject/l/public/s27196248.jpg" width="200" height="300">](https://book.douban.com/subject/25782902/)
 
 **反脆弱** *Finished on Jan 21, 2021*
 
-[<https://images-na.ssl-images-amazon.com/images/I/51Tlm0GZTXL._SX329_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+[<img src="https://images-na.ssl-images-amazon.com/images/I/51Tlm0GZTXL._SX329_BO1,204,203,200_.jpg" width="200" height="300">](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 
 **Atomic Habits** *Finished on Jan 20, 2021*
 
 
-[<https://m.media-amazon.com/images/I/51n-q69gn4L.jpg" width="200" height="300">](https://www.amazon.com/Master-Your-Emotions-Practical-Negativity-ebook/dp/B07CX8H6YH)
+[<img src="https://m.media-amazon.com/images/I/51n-q69gn4L.jpg" width="200" height="300">](https://www.amazon.com/Master-Your-Emotions-Practical-Negativity-ebook/dp/B07CX8H6YH)
 
 **Master Your Emotions: A Practical Guide to Overcome Negativity and Better Manage Your Feelings** *Finished on Jan 16, 2021*
 
