@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-01-21"
+date: "2021-02-01"
 featuredImage: './book.jpg'
 ---
 
@@ -29,6 +29,41 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+
+****
+
+**A Promised Land**
+
+**一禅小和尚**
+
+**被讨厌的勇气**
+
+**生活需要幸福感**
+
+**三十岁，一切刚刚开始**
+
+**你坏**
+
+**你的努力，要配得上你的野心**
+
+**36岁，人生半熟**
+
+**人生第一次**
+
+**一辈子很长，要好好说再见**
+
+**七分刚刚好**
+
+**故事的开始**
+
+**写给想哭的你**
+
+**今天的我有点热爱生活**
+
+**心：稻盛和夫的一生嘱托**
+
+**生活蒙太奇**
 
 [<img src="https://images-cn.ssl-images-amazon.cn/images/I/51WDB9ecgvL._SY346_.jpg" width="200" height="300">](https://book.douban.com/subject/26895993//)
 
