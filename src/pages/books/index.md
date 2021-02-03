@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-02-01"
+date: "2021-02-03"
 featuredImage: './book.jpg'
 ---
 
@@ -30,6 +30,17 @@ featuredImage: './book.jpg'
 
 ***
 
+**有幸被爱，无畏山海**
+
+**遇见你真好**
+
+**你今天真好看**
+
+**Too Much and Never Enough**
+
+**Master Your Time, Master Your Life**
+
+**Lean In**
 
 **Atomic Habits**
 
