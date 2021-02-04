@@ -30,6 +30,10 @@ featuredImage: './book.jpg'
 
 ***
 
+**长夜难明**
+
+**Lean In**
+
 **有幸被爱，无畏山海**
 
 **遇见你真好**
@@ -39,8 +43,6 @@ featuredImage: './book.jpg'
 **Too Much and Never Enough**
 
 **Master Your Time, Master Your Life**
-
-**Lean In**
 
 **Atomic Habits**
 
