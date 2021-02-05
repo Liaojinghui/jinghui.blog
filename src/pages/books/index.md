@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-02-03"
+date: "2021-02-05"
 featuredImage: './book.jpg'
 ---
 
@@ -29,6 +29,10 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+**Think Again**
+
+**Greenlights**
 
 **长夜难明**
 
