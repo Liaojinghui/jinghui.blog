@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-02-05"
+date: "2021-02-08"
 featuredImage: './book.jpg'
 ---
 
@@ -29,6 +29,16 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+**我的生活不可能那么坏**
+
+**笑场**
+
+**人间告白**
+
+---
+
+*Feb 8 2021*
 
 **Think Again**
 
