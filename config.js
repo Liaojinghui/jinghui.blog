@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'Block Blogger', // Required
+    title: 'Jinghui Liao / Block Blogger', // Required
     author: 'Jinghui Liao', // Required
     description: 'A computer security PhD student who prefers blockchain and 6am sunlight and misses his family.',
     primaryColor: '#3498db', // Required
