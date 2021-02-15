@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-02-12"
+date: "2021-02-15"
 featuredImage: './book.jpg'
 ---
 
@@ -29,6 +29,18 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+**A PhD is Not Enough**
+
+**你就是想的太多**
+
+**邓小平时代**
+
+**青春是一本仓促的书，我们流着泪一读再读**
+
+---
+
+*Feb 15 2021*
 
 **little prince**
 
