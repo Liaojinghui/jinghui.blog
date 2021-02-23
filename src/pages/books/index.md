@@ -30,6 +30,8 @@ featuredImage: './book.jpg'
 
 ***
 
+**Programming Rust(2018)**
+
 **Elon Musk**
 
 **How to Own Your Own Mind**
