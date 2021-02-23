@@ -30,6 +30,18 @@ featuredImage: './book.jpg'
 
 ***
 
+**Elon Musk**
+
+**How to Own Your Own Mind**
+
+**Unf--k Your Brain**
+
+**To Kill a Mockingbird**
+
+---
+
+*Feb 23 2021*
+
 **A PhD is Not Enough**
 
 **你就是想的太多**
