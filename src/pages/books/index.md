@@ -30,6 +30,12 @@ featuredImage: './book.jpg'
 
 ***
 
+**Steve Jobs**
+
+---
+
+*Feb 28 2021*
+
 **依恋**
 
 **Programming Rust(2018)**
