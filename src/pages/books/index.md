@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-02-23"
+date: "2021-03-04"
 featuredImage: './book.jpg'
 ---
 
@@ -29,6 +29,19 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+
+**The Wisdom of Wolves**
+
+**The Compound Effect**
+
+**Goodbye，Things**
+
+**我的前半生**
+
+---
+
+*Mar 4 2021*
 
 **Steve Jobs**
 
