@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-03-07"
+date: "2021-03-11"
 featuredImage: './book.jpg'
 ---
 
@@ -30,6 +30,19 @@ featuredImage: './book.jpg'
 
 ***
 
+
+**Liminal Thinking**
+
+**No Fears, No Excuses**
+
+**The Bravest You**
+
+**How to Consciously Design Your Ideal Future**
+
+---
+
+*Mar 11 2021*
+
 **如何正确的吵架**
 
 **Your Organized Home**
@@ -39,7 +52,6 @@ featuredImage: './book.jpg'
 **Start Living Your Dream Now**
 
 **Time Management**
-
 
 ---
 
