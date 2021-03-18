@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-03-11"
+date: "2021-03-18"
 featuredImage: './book.jpg'
 ---
 
@@ -30,6 +30,19 @@ featuredImage: './book.jpg'
 
 ***
 
+**Tireless**
+
+**只有读书人才能达到的地方**
+
+**愿你的青春 不负梦想**
+
+**论中国**
+
+**褚时健传**
+
+---
+
+*Mar 18 2021*
 
 **Liminal Thinking**
 
