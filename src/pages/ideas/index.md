@@ -1,8 +1,10 @@
 ---
 title: Reseach Idea Clips
-date: "2020-03-12"
+date: "2021-04-02"
 featuredImage: './idea.png'
 ---
+
+*04/02/2021* <> in ethereum, small miners will chose not to package any transactions to get advangate in mining the next block. such that it will never cause conflict with existing block.
 
 *03/12/2020* <> How to maintain the growth of Blockchain while the power drops sharply: Today is March 12, 2020, a day that all Blockchain releadted guys will remember forever, the market cap of Bitcoin drops by around 30%, and only one block could be mined within one hour due to the excaping of miners. So, how to prevent such a long time's block generation suspending would be a issue worth digging.
 
