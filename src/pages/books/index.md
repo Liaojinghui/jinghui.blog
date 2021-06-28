@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-03-19"
+date: "2021-06-28"
 featuredImage: './book.jpg'
 ---
 
@@ -29,6 +29,16 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+**How to Change**
+
+**Atomic Habits**
+
+**你不必活在别人的期待里**
+
+---
+
+*June 28 2021*
 
 **房思琪的初恋乐园**
 
