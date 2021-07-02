@@ -30,6 +30,22 @@ featuredImage: './book.jpg'
 
 ***
 
+**不要在该努力的时候放弃**
+
+**How to Change**
+
+**你不必活在别人的期待里**
+
+**你那么懂事，一定很辛苦吧**
+
+**这居然都是真的**
+
+**给青年的十二封信**
+
+---
+
+*July 2 2021*
+
 **How to Change**
 
 **Atomic Habits**
