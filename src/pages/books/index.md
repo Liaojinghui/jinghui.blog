@@ -30,6 +30,10 @@ featuredImage: './book.jpg'
 
 ***
 
+**时间的礼物**
+
+**爱欲之死**
+
 **不要在该努力的时候放弃**
 
 **How to Change**
