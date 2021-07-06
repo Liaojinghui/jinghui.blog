@@ -1,6 +1,6 @@
 ---
 title: Books that I read
-date: "2021-07-02"
+date: "2021-07-6"
 featuredImage: './book.jpg'
 ---
 
@@ -29,6 +29,20 @@ featuredImage: './book.jpg'
 *"OReilly.Optimized.Cplusplus.2016.4"*
 
 ***
+
+****
+
+**我在等风，也在等你**
+
+**远见**
+
+**理解生活**
+
+**The Midnight Library**
+
+---
+
+*July 6 2021*
 
 **时间的礼物**
 
